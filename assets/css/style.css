@@ -569,7 +569,7 @@ header {
   .mainBtn {
     display: block;
     position: fixed !important;
-    z-index: 10;
+    z-index: 3;
     left: 50%;
     transform: translateX(-50%);
     bottom: 20px;
